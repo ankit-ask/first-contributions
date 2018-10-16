@@ -8016,3 +8016,4 @@ Orandi Harris
 - [Roberto Kedmenec](https://github.com/kedmenecr)
 - [Hậu Chử](https://github.com/hauchu1196)
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
+- [Ankit Singh](https://github.com/ankit-ask)
